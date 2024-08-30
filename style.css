@@ -1,0 +1,59 @@
+.body{
+    background-color: rgb(193, 199, 211);
+}
+.text1 {
+    position: relative;
+    text-align: center;
+    color: rgb(149, 110, 240);
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+  .clock {
+    position: relative;
+    text-align: center;
+    color: rgb(149, 110, 240);
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+  }
+
+  .text2 {
+    position: relative;
+    text-align: center;
+    color: rgb(149, 110, 240);
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  img {
+    margin-top: 15px;
+    width: 30%;
+    height: 10%;
+}
+.countdown{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.big{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.countdown1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    max-width: 40px;
+    margin: 50px auto;
+    font-size: 50px;
+}
+
